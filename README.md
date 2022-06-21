@@ -1,2 +1,2 @@
-# ReactPortfolio
-React personal portfolio
+# reactwebsite
+ React personal website
